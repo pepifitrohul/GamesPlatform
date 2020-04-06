@@ -1,0 +1,24 @@
+{
+    "platform": [
+        {
+            "id" : 1,
+            "name" : "Android"
+        },
+        {
+            "id" : 2,
+            "name" : "Ios"
+        },
+        {
+            "id" : 3,
+            "name" : "Windows"
+        },
+        {
+            "id" : 4,
+            "name" : "MacOS"
+        },
+        {
+            "id" : 5,
+            "name" : "Linux"
+        }
+    ]
+}
